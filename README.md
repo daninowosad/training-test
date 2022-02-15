@@ -6,3 +6,9 @@ This is a training course
  - learning git
  - github
  - version control
+
+This set of changes is from RStudio
+
+- apples
+- pears
+- KIWIS
