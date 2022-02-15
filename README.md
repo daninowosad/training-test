@@ -2,6 +2,7 @@
 training repo during the reproducible science course
 
 This is a training course
-  -repo
-  -learning git
-  -github
+ - repo
+ - learning git
+ - github
+ - version control
